@@ -1,0 +1,14 @@
+{
+  "name": "typescript-examples",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/react": "^16.8.1",
+    "@types/react-dom": "^16.0.11",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "apollo-client": "^2.4.12",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}

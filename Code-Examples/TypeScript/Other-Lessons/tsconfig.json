@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "outDir": "dist",
+    "lib": ["dom", "esnext"],
+    "jsx": "react",
+    "strictNullChecks": true,
+    "module": "commonjs",
+    "moduleResolution": "node"
+  },
+  "include": ["src/**/*"]
+}
