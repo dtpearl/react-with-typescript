@@ -1,12 +1,12 @@
 import { Provider } from 'react-redux';
 import { reducer } from '../reducer';
 import { createStore } from 'redux';
-import { ConnectedTasksList } from '../components/TasksList';
+import { WrappedWeather } from '../components/Weather';
 
 const store = createStore(reducer);
 
 export default () => (
   <Provider store={store}>
-    <ConnectedTasksList />
+    <WrappedWeather theme="yellow" />
   </Provider>
 );
