@@ -1,0 +1,10 @@
+{
+  "name": "generics-assignment",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.2",
+    "typescript": "^3.4.5"
+  }
+}
