@@ -15,6 +15,6 @@ npm run compile
 ## Run the questions
 
 ```
-node dist/Question1.js
-node dist/Question2.js
+node dist/Questions/Question1.js
+node dist/Questions/Question2.js
 ```
