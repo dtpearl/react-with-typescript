@@ -5,23 +5,23 @@ This folder includes the source code for the following lectures:
 **Section:** TypeScript
 
 **Lectures:**
-- Types - [Link](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/2-Types.ts)
-- Interfaces - [Link](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/3-Interfaces.ts)
-- Functions - [Link](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/4-Functions.ts)
-- Classes - [Link](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/5-1-Classes.ts)
-- Implementing Interfaces - [Link](https://github.com/d-dmytro/react-with-typescript/tree/master/Code-Examples/TypeScript/Other-Lessons/src/5-2-Implementing-Interfaces)
-- Describing Constructors Using Interfaces - [Link](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/5-3-Describing-Class-Constructors-Using-Interfaces.ts)
-- Generics - [Link](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/6-Generics.ts)
-- Union Type - [Link](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/7-Union-Type.ts)
-- External Packages and Their Types - [Link](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/8-External-Packages-and-Their-Types.ts)
-- Declaration Merging
 
-   * [Part 1 - Merging Interfaces](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/9-Declaration-Merging-1.ts)
-   * [Part 2 - Merging Namespaces](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/9-Declaration-Merging-2.ts)
-   * [Part 3 - Using Namespaces to Extend Functions](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/9-Declaration-Merging-3.ts)
-   * [Part 4 - Using Namespaces to Extend Enums](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/9-Declaration-Merging-4.ts)
-   * [Part 5 - Using Namespaces to Extend Classes](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/9-Declaration-Merging-5.ts)
-   * [Part 6 - Augmenting the React Module](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/9-Declaration-Merging-6.tsx)
+1. [Types](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Types.ts)
+2. [Interfaces](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Interfaces.ts)
+3. [Functions](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Functions.ts)
+4. [Classes](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Classes.ts)
+5. [Implementing Interfaces](https://github.com/d-dmytro/react-with-typescript/tree/master/Code-Examples/TypeScript/Other-Lessons/src/Implementing-Interfaces)
+6. [Describing Constructors Using Interfaces](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Describing-Class-Constructors-Using-Interfaces.ts)
+7. [Generics](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Generics.ts)
+8. [Union Type](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Union-Type.ts)
+9. [External Packages and Their Types](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/External-Packages-and-Their-Types.ts)
+10. Declaration Merging
+    1. [Part 1 - Merging Interfaces](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Declaration-Merging-1.ts)
+    2. [Part 2 - Merging Namespaces](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Declaration-Merging-2.ts)
+    3. [Part 3 - Using Namespaces to Extend Functions](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Declaration-Merging-3.ts)
+    4. [Part 4 - Using Namespaces to Extend Enums](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Declaration-Merging-4.ts)
+    5. [Part 5 - Using Namespaces to Extend Classes](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Declaration-Merging-5.ts)
+    6. [Part 6 - Augmenting the React Module](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Declaration-Merging-6.tsx)
 
 ## Installing This Project
 
