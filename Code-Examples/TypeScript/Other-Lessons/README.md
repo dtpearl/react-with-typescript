@@ -14,8 +14,10 @@ This folder includes the source code for the following lectures:
 6. [Describing Constructors Using Interfaces](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Describing-Class-Constructors-Using-Interfaces.ts)
 7. [Generics](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Generics.ts)
 8. [Union Type](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Union-Type.ts)
-9. [External Packages and Their Types](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/External-Packages-and-Their-Types.ts)
-10. Declaration Merging
+9. [Intersection Type](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Intersection-Type.ts)
+10. [Type Alias](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Type-Alias.ts)
+11. [External Packages and Their Types](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/External-Packages-and-Their-Types.ts)
+12. Declaration Merging
     1. [Part 1 - Merging Interfaces](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Declaration-Merging-1.ts)
     2. [Part 2 - Merging Namespaces](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Declaration-Merging-2.ts)
     3. [Part 3 - Using Namespaces to Extend Functions](https://github.com/d-dmytro/react-with-typescript/blob/master/Code-Examples/TypeScript/Other-Lessons/src/Declaration-Merging-3.ts)
